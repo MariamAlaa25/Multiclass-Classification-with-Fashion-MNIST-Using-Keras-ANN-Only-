@@ -1,7 +1,7 @@
 
 Objective
 ------------------------------------------------------------
-The goal is to build a multiclass classification model using Keras with TensorFlow backend to classify fashion items from the Fashion MNIST dataset.
+The goal is to build a multiclass classification model using Keras with TensorFlow backend to classify fashion items from the Fashion MNIST dataset using ANN.
 
 Dataset Description
 -------------------------------------------------------------
